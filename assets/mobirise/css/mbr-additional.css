@@ -162,25 +162,25 @@ body {
 .btn-secondary,
 .btn-secondary:active,
 .btn-secondary.active {
-  background-color: #f27d7a !important;
-  border-color: #f27d7a !important;
+  background-color: #9c100d !important;
+  border-color: #9c100d !important;
   color: #ffffff !important;
 }
 .btn-secondary:hover,
 .btn-secondary:focus,
 .btn-secondary.focus {
   color: #ffffff !important;
-  background-color: #f27d7a !important;
-  border-color: #f27d7a !important;
+  background-color: #9c100d !important;
+  border-color: #9c100d !important;
 }
 .btn-secondary:before {
-  background-color: #eb3934 !important;
+  background-color: #550907 !important;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #eb3934 !important;
-  border-color: #eb3934 !important;
+  background-color: #550907 !important;
+  border-color: #550907 !important;
 }
 .btn-info,
 .btn-info:active,
@@ -349,23 +349,23 @@ body {
 .btn-secondary-outline:active,
 .btn-secondary-outline.active {
   background: none;
-  border-color: #e9221d;
-  color: #e9221d;
+  border-color: #3e0605;
+  color: #3e0605;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus {
   color: #ffffff;
-  border-color: #f27d7a;
+  border-color: #9c100d;
 }
 .btn-secondary-outline:before {
-  background-color: #f27d7a;
+  background-color: #9c100d;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #f27d7a !important;
-  border-color: #f27d7a !important;
+  background-color: #9c100d !important;
+  border-color: #9c100d !important;
 }
 .btn-info-outline,
 .btn-info-outline:active,
@@ -540,7 +540,7 @@ body {
   color: #106ef1 !important;
 }
 .text-secondary {
-  color: #f27d7a !important;
+  color: #9c100d !important;
 }
 .text-success {
   color: #9473d2 !important;
@@ -566,7 +566,7 @@ a.text-primary:focus {
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
-  color: #e9221d !important;
+  color: #3e0605 !important;
 }
 a.text-success:hover,
 a.text-success:focus {
